@@ -1,6 +1,6 @@
 {
-  "name": "apt-client",
-  "version": "2.1.1",
+  "name": "apt-client-idolize",
+  "version": "2.2.0",
   "description": "A library for reading aptly repositories",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
